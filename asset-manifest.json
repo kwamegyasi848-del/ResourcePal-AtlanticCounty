@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ResourcePal-AtlanticCounty/static/css/main.c172b72d.css",
-    "main.js": "/ResourcePal-AtlanticCounty/static/js/main.b12897bf.js",
+    "main.css": "/ResourcePal-AtlanticCounty/static/css/main.e95ffeb2.css",
+    "main.js": "/ResourcePal-AtlanticCounty/static/js/main.bd461c66.js",
     "index.html": "/ResourcePal-AtlanticCounty/index.html",
-    "main.c172b72d.css.map": "/ResourcePal-AtlanticCounty/static/css/main.c172b72d.css.map",
-    "main.b12897bf.js.map": "/ResourcePal-AtlanticCounty/static/js/main.b12897bf.js.map"
+    "main.e95ffeb2.css.map": "/ResourcePal-AtlanticCounty/static/css/main.e95ffeb2.css.map",
+    "main.bd461c66.js.map": "/ResourcePal-AtlanticCounty/static/js/main.bd461c66.js.map"
   },
   "entrypoints": [
-    "static/css/main.c172b72d.css",
-    "static/js/main.b12897bf.js"
+    "static/css/main.e95ffeb2.css",
+    "static/js/main.bd461c66.js"
   ]
 }
