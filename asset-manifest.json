@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/ResourcePal-AtlanticCounty/static/css/main.f855e6bc.css",
-    "main.js": "/ResourcePal-AtlanticCounty/static/js/main.15806b77.js",
-    "static/js/453.9202bf71.chunk.js": "/ResourcePal-AtlanticCounty/static/js/453.9202bf71.chunk.js",
-    "static/media/logo.svg": "/ResourcePal-AtlanticCounty/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ResourcePal-AtlanticCounty/static/css/main.c172b72d.css",
+    "main.js": "/ResourcePal-AtlanticCounty/static/js/main.b12897bf.js",
     "index.html": "/ResourcePal-AtlanticCounty/index.html",
-    "main.f855e6bc.css.map": "/ResourcePal-AtlanticCounty/static/css/main.f855e6bc.css.map",
-    "main.15806b77.js.map": "/ResourcePal-AtlanticCounty/static/js/main.15806b77.js.map",
-    "453.9202bf71.chunk.js.map": "/ResourcePal-AtlanticCounty/static/js/453.9202bf71.chunk.js.map"
+    "main.c172b72d.css.map": "/ResourcePal-AtlanticCounty/static/css/main.c172b72d.css.map",
+    "main.b12897bf.js.map": "/ResourcePal-AtlanticCounty/static/js/main.b12897bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.15806b77.js"
+    "static/css/main.c172b72d.css",
+    "static/js/main.b12897bf.js"
   ]
 }
